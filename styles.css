@@ -265,7 +265,6 @@ nav {
 
 
 .why-choose-us {
-  font-family: 'Dancing Script', cursive;
   background-color: #f7f7f7;
   padding: 35px;
   text-align: center;
@@ -298,6 +297,7 @@ nav {
 }
 
 .section-title.fr {
+   font-family: 'Dancing Script', cursive;
   font-size: 36px;
   font-weight: bold;
   margin-bottom: 20px;
